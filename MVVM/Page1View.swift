@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MVVM
 //
-//  Created by 花形春輝 on 2023/01/19.
+//  Created by 春蔵 on 2023/01/19.
 //
 
 import SwiftUI
