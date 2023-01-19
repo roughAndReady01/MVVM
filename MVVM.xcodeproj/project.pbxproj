@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4001770D2978C7470030D4D6 /* MVVMApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4001770C2978C7470030D4D6 /* MVVMApp.swift */; };
-		4001770F2978C7470030D4D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4001770E2978C7470030D4D6 /* ContentView.swift */; };
+		4001770F2978C7470030D4D6 /* Page1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4001770E2978C7470030D4D6 /* Page1View.swift */; };
 		400177112978C74A0030D4D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 400177102978C74A0030D4D6 /* Assets.xcassets */; };
 		400177142978C74A0030D4D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 400177132978C74A0030D4D6 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		400177092978C7470030D4D6 /* MVVM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4001770C2978C7470030D4D6 /* MVVMApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMApp.swift; sourceTree = "<group>"; };
-		4001770E2978C7470030D4D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4001770E2978C7470030D4D6 /* Page1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page1View.swift; sourceTree = "<group>"; };
 		400177102978C74A0030D4D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		400177132978C74A0030D4D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				4001770C2978C7470030D4D6 /* MVVMApp.swift */,
-				4001770E2978C7470030D4D6 /* ContentView.swift */,
+				4001770E2978C7470030D4D6 /* Page1View.swift */,
 				400177102978C74A0030D4D6 /* Assets.xcassets */,
 				400177122978C74A0030D4D6 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4001770F2978C7470030D4D6 /* ContentView.swift in Sources */,
+				4001770F2978C7470030D4D6 /* Page1View.swift in Sources */,
 				4001770D2978C7470030D4D6 /* MVVMApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
